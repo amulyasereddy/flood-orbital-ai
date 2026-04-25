@@ -1,5 +1,5 @@
 # TerraMind Orbital Flood Intelligence System
-**Team 418 | AI/ML in Space Track | TM2Space × Aeon Hackathon**
+**AI/ML in Space Track | TM2Space × Aeon Hackathon**
 
 ---
 
